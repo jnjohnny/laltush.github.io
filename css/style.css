@@ -1,0 +1,107 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+
+.clr{clear:both;}
+
+
+.header{background-image: url(../images/bg.png);
+height:500px;
+background-width:100%;}
+
+.logo { width:30%;
+
+}
+
+.logo img{ float: left;
+	margin-top:20px;
+	margin-left:100px;
+
+
+}
+
+.e-menu{width: 70%;
+height: 400px;
+float:right;
+margin-top:30px;
+}
+
+.express{width: 100%;
+    display:inline-block;
+    
+}
+
+.express img{padding-left:500px;}
+
+.express h3{float:right;
+            margin-right: 140px;}
+
+.menu{float:right;
+margin-right:125px;
+margin-top:10px;
+}
+
+.menu a{text-decoration:none;
+ padding:20px;
+ color:black;}
+
+
+
+ .blogo{position:relative;
+ 	bottom:640px;
+ 	left:650px;}
+
+ .blogo img{width: 540px; height:490px;}
+
+
+.textt{position:relative;
+       bottom:330px;
+       margin-left:100px;}
+
+.textt h3{}
+
+.textt h2{font-size:80px;}
+
+.textt h1{font-size:85px;}
+
+.image{margin-right: 100px;
+width:100%;
+margin-top:-560px;}
+
+.bim{float:left;
+width:40%;}
+
+.bim img{width:540px;
+height:388px;
+margin-left: 100px;}
+
+.twoimage{float:right;
+}
+
+.firstimage img{height:176px;
+width:540px;
+margin-bottom: 30px;
+margin-right: 80px;
+}
+
+.secondimage img {height:176px;
+width:540px;}
+
+.button{position: relative;
+top:460px;
+left:85px;
+
+}
+
+.button button{height:50px;
+width:140px;
+background-color:#ffe135;
+border-style:none;
+}
+
+.button p{color:white;}
+
+.dummy{position:relative;}
